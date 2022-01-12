@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+#demo {
+    transform: scale(0.7) rotate(43deg) skew(-34deg, -44deg);
+    }
